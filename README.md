@@ -123,6 +123,7 @@ Update the hero content by modifying the text elements:
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+[MIT License](https://github.com/thisislefa/BrandCraft/blob/main/LICENSE)
+
 
 
